@@ -16,7 +16,7 @@
 - Les presentations : 10min de slide, 5min de demonstration, 5-10min de question réponse
 
 
-### Contenue :
+### Contenus :
 
 Les articles : titre, auteur, genre, date de publication, content (au format md).
 L'utilisateur (admin) : username, email, password.
